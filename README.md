@@ -227,7 +227,7 @@ Sender/receiver tracking
 Timestamp logging
 Support communication
 # Technology Stack
-Backend
+# Backend
 
 Framework: Spring Boot 2.7.15
 Language: Java 8
@@ -235,7 +235,7 @@ Build Tool: Maven
 Security: Spring Security with JWT
 Database: MySQL 8.0+
 
-Key Dependencies
+# Key Dependencies
 
 Spring Boot Starter Web: REST API development
 Spring Boot Starter Data JPA: Database operations
@@ -248,13 +248,13 @@ Cloudinary: Cloud file storage
 iTextPDF: Invoice generation
 Spring Boot Starter Validation: Input validation
 
-Database
+# Database
 
 RDBMS: MySQL
 ORM: Hibernate/JPA
 Schema Management: Auto-update via Hibernate
 
-Development Tools
+# Development Tools
 
 IDE: Eclipse IDE
 API Testing: Postman
