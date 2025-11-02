@@ -226,3 +226,37 @@ WebSocket-based real-time messaging
 Sender/receiver tracking
 Timestamp logging
 Support communication
+# Technology Stack
+Backend
+
+Framework: Spring Boot 2.7.15
+Language: Java 8
+Build Tool: Maven
+Security: Spring Security with JWT
+Database: MySQL 8.0+
+
+Key Dependencies
+
+Spring Boot Starter Web: REST API development
+Spring Boot Starter Data JPA: Database operations
+Spring Boot Starter Security: Authentication & Authorization
+MySQL Connector: Database connectivity
+JWT (jjwt): Token-based authentication
+Lombok: Boilerplate code reduction
+JavaMail: Email functionality
+Cloudinary: Cloud file storage
+iTextPDF: Invoice generation
+Spring Boot Starter Validation: Input validation
+
+Database
+
+RDBMS: MySQL
+ORM: Hibernate/JPA
+Schema Management: Auto-update via Hibernate
+
+Development Tools
+
+IDE: Eclipse IDE
+API Testing: Postman
+Version Control: Git/GitHub
+Server: Apache Tomcat (Embedded)
